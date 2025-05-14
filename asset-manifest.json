@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amirkhan172/TEXTUTILS/static/css/main.a69fc251.css",
-    "main.js": "/amirkhan172/TEXTUTILS/static/js/main.c4815a83.js",
-    "static/js/453.02b6ed6f.chunk.js": "/amirkhan172/TEXTUTILS/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/amirkhan172/TEXTUTILS/index.html",
-    "main.a69fc251.css.map": "/amirkhan172/TEXTUTILS/static/css/main.a69fc251.css.map",
-    "main.c4815a83.js.map": "/amirkhan172/TEXTUTILS/static/js/main.c4815a83.js.map",
-    "453.02b6ed6f.chunk.js.map": "/amirkhan172/TEXTUTILS/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/TEXTUTILS/static/css/main.a69fc251.css",
+    "main.js": "/TEXTUTILS/static/js/main.b42f445f.js",
+    "static/js/453.02b6ed6f.chunk.js": "/TEXTUTILS/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/TEXTUTILS/index.html",
+    "main.a69fc251.css.map": "/TEXTUTILS/static/css/main.a69fc251.css.map",
+    "main.b42f445f.js.map": "/TEXTUTILS/static/js/main.b42f445f.js.map",
+    "453.02b6ed6f.chunk.js.map": "/TEXTUTILS/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a69fc251.css",
-    "static/js/main.c4815a83.js"
+    "static/js/main.b42f445f.js"
   ]
 }
